@@ -16,8 +16,11 @@ PBIF: Pu'Shing Bhu'Tons Ignes Fatui : [0x88cef2ba2e715c7211cd204acb089d3e3131f27
 PBAE: Pu'Shing Bhu'Tons Anareta Ego : [0x79eb6f0fac2b10b452c03880eb72c749ff29c147](https://etherscan.io/token/0x79eb6f0fac2b10b452c03880eb72c749ff29c147)<br />
 
 
-## License
+## Open Source Licenses
 *Zeemz: Pandemic Patch* is MIT licensed to encourage the development of solutions that fight Coronavirus.<br />
+*Flow* 
+
+## Licenses
 *Zeemz: The Versipisces Secret* is Copyright (c) 2020 Monique Finley and Jennifer Landry. All Rights Reserved. <br />
 *The Pu'Shing Bhu'Tons 'Verse* is Copyright (c) 2020 Monique Finley and Jennifer Landry. All Rights Reserved. <br />
 *The Pu'Shing Bhu'Tons Series* is Copyright (c) 2020 Monique Finley. All Rights Reserved. <br />
@@ -27,10 +30,10 @@ CryptoZombies is Copyright (c) 2020 Loom Network. All Rights Reserved. <br />
 CryptoKitties is Copyright (c) 2020 Axiom Zen. All Rights Reserved. <br />
 
 TODO
-- Add ZeemzCore source code
+- Add ZeemzCore source code (Eth smart contracts & abis - added), 
 - ~~Add links to PSBT token repo (when available)~~
 - Add dependencies list 
 - Add build instructions (solidity, remix, etc).
 - Add Ethereum Testnet instructions
 - Integrate LoomSDK
-- Create Zeemz Portal: Kitty Vortex using Cadence for Flow (new blockchain by developers of CryptoKitties)
+- Create [Zeemz Portal: Kitty Vortex](https://github.com/pushingbhutons/kittyVortex) using Cadence for Flow (new blockchain by developers of CryptoKitties)
