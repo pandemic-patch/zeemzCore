@@ -1,0 +1,29 @@
+Metadata published successfully.
+
+browser/pbif.sol : 
+
+dweb:/ipfs/QmeSgjwDVPPApxSqd1Fp7KKzfZLkUASFTxyw2rGHikuipx
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v2.4.0/contracts/GSN/Context.sol : 
+
+dweb:/ipfs/QmNPrJ4MWKUAWzKXpUqeyKRUfosaoANZAqXgvepdrCwZAG
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v2.4.0/contracts/math/SafeMath.sol : 
+
+dweb:/ipfs/QmbZaJyXdpsYGykVhHH9qpVGQg9DGCxE2QufbCUy3daTgq
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v2.4.0/contracts/token/ERC20/ERC20.sol : 
+
+dweb:/ipfs/Qma2VeknkKA1THeubGzshWFk44BktXkXP1UKp9Un2uDSsu
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v2.4.0/contracts/token/ERC20/ERC20Detailed.sol : 
+
+dweb:/ipfs/Qmb9iW7yNuYehB2NfhRMs9TakqbLVQhBhmGMkaDZ5g1Eb4
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v2.4.0/contracts/token/ERC20/IERC20.sol : 
+
+dweb:/ipfs/QmQMvwEcPhoRXzbXyrdoeRtvLoifUW9Qh7Luho7bmUPRkc
+
+metadata.json : 
+
+dweb:/ipfs/QmWBPq7HmXc43D7V9R6ft1E55ukNpAk7sYX98S4EMcdjJ2
