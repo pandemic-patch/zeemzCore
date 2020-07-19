@@ -24,6 +24,7 @@ tPBV: the Pu'Shing Bhu'Tons Verse: [0xd63b36b60f816817207747469247b4b6a4f0766d](
 *Flow* 
 
 ## Licenses
+*Zeemz: Kitty Vortex* is Copyright (c) 2020 Monique Finley and Jennifer Landry. All Rights Reserved. <br />
 *Zeemz: The Versipisces Secret* is Copyright (c) 2020 Monique Finley and Jennifer Landry. All Rights Reserved. <br />
 *The Pu'Shing Bhu'Tons 'Verse* is Copyright (c) 2020 Monique Finley and Jennifer Landry. All Rights Reserved. <br />
 *The Pu'Shing Bhu'Tons Series* is Copyright (c) 2020 Monique Finley. All Rights Reserved. <br />
@@ -38,5 +39,5 @@ TODO
 - Add dependencies list 
 - Add build instructions (solidity, remix, etc).
 - Add Ethereum Testnet instructions
-- Integrate LoomSDK
+- Integrate ~LoomSDK~ Flow & Cadence
 - Create [Zeemz Portal: Kitty Vortex](https://github.com/pushingbhutons/kittyVortex) using Cadence for Flow (new blockchain by developers of CryptoKitties)
